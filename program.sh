@@ -1,4 +1,3 @@
 #!/bin/sh
+echo Weniger ist mehr
 echo kaputt
-echo Mehr Mehr
-echo Anders
