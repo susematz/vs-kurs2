@@ -1,3 +1,3 @@
 #!/bin/sh
-echo okay
+echo kaputt
 echo super
