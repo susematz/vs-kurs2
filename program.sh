@@ -1,3 +1,3 @@
 #!/bin/sh
 echo kaputt
-echo super
+echo super duper
